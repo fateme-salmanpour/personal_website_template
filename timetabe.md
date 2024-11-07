@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /course_timetable/
+permalink: /timetable/
 title: timetable
 tags: [classes]
 modified: 4-10-2019

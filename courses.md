@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: single
 author_profile: true
 permalink: /courses/
@@ -34,4 +34,4 @@ comments: false
 |----|------|--------------------------------------------|
 |2018|Spring| **Advanced Programming - C#**             |
 |----|------|--------------------------------------------|
-|2018|Spring| **Natural Language Processing (Undergraduate)** |
+|2018|Spring| **Natural Language Processing (Undergraduate)** | -->

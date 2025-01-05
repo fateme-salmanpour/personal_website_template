@@ -11,7 +11,7 @@ comments: false
 
 
 
-![exam day](/assets/images/Screenshot.png "exam day")
+![exam day](/assets/images/exam.jpg "exam day")
 - sample item 1
 - [sample item 2](fccourse.liara.run)
 

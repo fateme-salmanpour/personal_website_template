@@ -2,16 +2,16 @@
 layout: single
 author_profile: true
 permalink: /MyFinal/
-title: Resume
-tags: [resume, MyFinal]
+title: Exam day shots 
+tags: [MyFinal]
 modified: 4-14-2019
 comments: false
 ---
 
-# Exam day shots
 
 
-![](/assets/images/Screenshot.png "")
+
+![exam day](/assets/images/Screenshot.png "exam day")
 - sample item 1
 - [sample item 2](fccourse.liara.run)
 
